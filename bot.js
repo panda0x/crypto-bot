@@ -12,7 +12,7 @@ const binance = new Binance({
   APIKEY: process.env.BINANCE_KEY,
   APISECRET: process.env.BINANCE_SECRET,
 });
-
+ 
 
 const TOO_MUCH = 'yavaş lan botun anasını siktiniz!';
 const NO_CURRENCY = 'No currency found with that name.';
@@ -1140,7 +1140,7 @@ var hisse = [
 'YÜKSELEN ÇELİK ANONİM ŞİRKETİ',
 'YÜNSA YÜNLÜ SANAYİ VE TİCARET ANONİM ŞİRKETİ',
 'ZORLU ENERJİ ELEKTRİK ÜRETİM ANONİM ŞİRKETİ',
-
+'deneme', 
 
 ];
 
