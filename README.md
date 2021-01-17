@@ -9,7 +9,7 @@ Talk to @coinmarketcap_info_bot on Telegram! <https://t.me/coinmarketcap_info_bo
 
 1. Clone the repo to your computer and install the required dependencies.
    ```console
-   git clone https://github.com/abhinavk99/crypto-bot.git
+   git clone https://github.com/panda0x/crypto-bot.git
    cd crypto-bot
    npm install
    ```
